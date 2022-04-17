@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=007acc&text=SangminLee&height=200&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=007acc&text=SangminLee&height=200&animation=fadeIn&fontAlignY=35)
 
 <div align="center">
   <h3>🛠 Tech Stack 🛠</h3>
