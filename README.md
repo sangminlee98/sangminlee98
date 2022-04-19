@@ -10,7 +10,7 @@
   <br/>
   <img alt="Redux" src ="https://img.shields.io/badge/Redux-764ABC.svg?&style=for-the-badge&logo=Redux&logoColor=white"/>
   <img alt="Recoil" src ="https://img.shields.io/badge/Recoil-0075EB.svg?&style=for-the-badge&logo=Revolut&logoColor=white"/>
-  <img alt="ReactQuery" src ="https://img.shields.io/badge/ReactQuery-FF4154.svg?&style=&logo=ReactQuery&logoColor=white"/>
+  <img alt="ReactQuery" src ="https://img.shields.io/badge/ReactQuery-FF4154.svg?&style=for-the-badge&logo=ReactQuery&logoColor=white"/>
   <img alt="ReactRouter" src ="https://img.shields.io/badge/ReactRouter-CA4245.svg?&style=for-the-badge&logo=ReactRouter&logoColor=white"/>
   <img alt="Jest" src ="https://img.shields.io/badge/Jest-C21325.svg?&style=for-the-badge&logo=Jest&logoColor=white"/>
   <br/>
