@@ -33,4 +33,4 @@
 ![sangminlee98's github stats](https://github-readme-stats.vercel.app/api?username=sangminlee98&show_icons=true&theme=radical)
 [![sangminlee98's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sangminlee98&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&theme=radical)](https://github.com/sangminlee98)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=007acc&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=007acc&height=100&section=footer)
