@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=007acc&text=Sangmin-Lee&height=200&animation=fadeIn&fontAlignY=35&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=007acc&text=Sangmin-Lee&height=150&animation=fadeIn&fontAlignY=35&fontSize=40)
 
 <div align="center">
   <h3>🛠 Tech Stack 🛠</h3>
@@ -32,7 +32,18 @@
 <hr/>
 <br/>
 
-![sangminlee98's github stats](https://github-readme-stats.vercel.app/api?username=sangminlee98&show_icons=true&theme=radical)
-[![sangminlee98's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sangminlee98&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&theme=radical)](https://github.com/sangminlee98)
+<p align="center">
+
+
+<a href="https://github.com/sangminlee98">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sangminlee98&theme=tokyonight" height="180"/>
+</a>
+<a href="https://github.com/sangminlee98">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangminlee98&theme=tokyonight&layout=compact&exclude_repo=OPNE-CV,Python,Project,AWS_Serverless,Google_Image_Crawling,MFC-WINDOW-PROGRAMMING)](https://github.com/anuraghazra/github-readme-stats"  height="180" />
+</a>
+
+
+</p>
+
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=007acc&height=100&section=footer)
