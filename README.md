@@ -22,7 +22,7 @@
   <br/>
   <img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white"/>
   <img alt="GithubActions" src ="https://img.shields.io/badge/GithubActions-2088FF.svg?&style=for-the-badge&logo=GithubActions&logoColor=white"/>
-  <img alt="AmazonAWS" src ="https://img.shields.io/badge/Amazon-FF9900.svg?&style=for-the-badge&logo=AmazonAWS&logoColor=white"/>
+  <img alt="AmazonAWS" src ="https://img.shields.io/badge/AWS-FF9900.svg?&style=for-the-badge&logo=AmazonAWS&logoColor=white"/>
   <br/>
   <br/>
   <br/>
