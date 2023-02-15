@@ -1,9 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=007acc&text=Sangmin-Lee&height=150&animation=fadeIn&fontAlignY=35&fontSize=40)
 
 <div align="center">
-  <h3>
-    <a href="https://equinox-dolphin-3e9.notion.site/LEE-SANGMIN-696a6f2e9a5e45c6a6c5b96306b5b832">📔Resume</a>
-  </h3>
   <h3>🛠 Tech Stack 🛠</h3>
   <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
   <img alt="CSS" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
